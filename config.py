@@ -1,1 +1,4 @@
 SQLITE_DB_FILE = "db.sqlite3"
+DATE_FORMAT = "%Y-%m-%d"
+#DATE_FORMAT = "%d.%m.%Y"
+VOTE_ELEMENTS_COUNT = 3
